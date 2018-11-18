@@ -1,6 +1,7 @@
 // VirtualJoystick was taken from
 // https://github.com/erichlof/virtualjoystick.js
 // Copyright (c) 2011 Jerome Etienne, http://jetienne.com
+// with addons from Erich Loftis, https://github.com/erichlof
 // MIT-License
 
 var VirtualJoystick = function(opts) {
