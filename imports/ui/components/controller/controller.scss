@@ -1,0 +1,23 @@
+div#controller {
+  width: 100%;
+  height: 100%;
+  background-color: #BBB;
+
+  #virtualjoystick {
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+  }
+
+  .footer {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    h1 {
+      text-align: center;
+    }
+  }
+
+}
