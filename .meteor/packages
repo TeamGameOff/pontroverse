@@ -21,3 +21,4 @@ shell-server                  # Server-side component of the `meteor shell` comm
 meteortesting:mocha           # Write client and server tests
 
 ostrio:flow-router-extra      # Use FlowRouter to allow sub-links
+underscore                    # use Underscore
